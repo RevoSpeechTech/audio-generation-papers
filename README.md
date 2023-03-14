@@ -1,13 +1,12 @@
 ## Audio Generation Papers
 Recent audio generation (and audio codec) papers, including speech, music and general audios.
 
-
-| **Year** | **Organization** | **Name** | **Title** | **Paper** | **Demo** | **Code** | 
+| **Year** | **Org.** | **Name** | **Title** | **Paper** | **Demo** | **Code** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2020 | OpenAI | Jukebox | Jukebox: A Generative Model for Music | [[2005.00341]](https://arxiv.org/pdf/2005.00341.pdf) | [[demo]](https://openai.com/research/jukebox) | [[code]](https://github.com/openai/jukebox) |
-| 2021 | Google | Soundstream | Soundstream: An end-to-end neural audio codec | [[2107.03312]](https://arxiv.org/pdf/2107.03312.pdf)| [[demo]](https://google-research.github.io/seanet/soundstream/examples/) | [[code-1]](https://github.com/google/lyra)<br>[[code-2]](https://github.com/wesbz/SoundStream) |
+| 2021 | Google | Soundstream | Soundstream: An end-to-end neural audio codec | [[2107.03312]](https://arxiv.org/pdf/2107.03312.pdf)| [[demo]](https://google-research.github.io/seanet/soundstream/examples/) | [[code]](https://github.com/google/lyra)<br>[[code]](https://github.com/wesbz/SoundStream) |
 | 2021 | IRCAM | RAVE | RAVE: A variational autoencoder for fast and high-quality neural audio synthesis | [[2111.05011]](https://arxiv.org/pdf/2111.05011.pdf) | [[demo]](https://anonymous84654.github.io/RAVE_anonymous/) | [[code]](https://github.com/acids-ircam/RAVE) |
-| 2022 | Google | Perceiver-AR | General-purpose, long-context autoregressive modeling with Perceiver AR | [[2202.07765]](https://arxiv.org/pdf/2202.07765.pdf) | [[demo]](https://storage.googleapis.com/perceiver-ar/index.html) | [[code-1]](https://github.com/google-research/perceiver-ar)<br>[[code-2]](https://github.com/asigalov61/Perceiver-Music-Transformer) |
+| 2022 | Google | Perceiver-AR | General-purpose, long-context autoregressive modeling with Perceiver AR | [[2202.07765]](https://arxiv.org/pdf/2202.07765.pdf) | [[demo]](https://storage.googleapis.com/perceiver-ar/index.html) | [[code]](https://github.com/google-research/perceiver-ar)<br>[[code]](https://github.com/asigalov61/Perceiver-Music-Transformer) |
 | 2022 | Stanford | SASHIMI | It's raw! audio generation with state-space models | [[2202.09729]](https://arxiv.org/pdf/2202.09729.pdf) | [[demo]](https://hazyresearch.stanford.edu/sashimi-examples/) | [[code]](https://github.com/albertfgu/diffwave-sashimi) | 
 | 2022 | Baidu | A3T | A3T: Alignment-Aware Acoustic and Text Pretraining for Speech Synthesis and Editing | [[2203.09690]](https://arxiv.org/pdf/2203.09690.pdf) | [[demo]](https://github.com/richardbaihe/a3t) | [[code]](https://github.com/richardbaihe/a3t) |
 | 2022 | SJTU | VQTTS | VQTTS: High-Fidelity Text-to-Speech Synthesis with Self-Supervised VQ Acoustic Feature | [[2204.00768]](https://arxiv.org/pdf/2204.00768.pdf) | [[demo]](https://cpdu.github.io/vqtts/) | [[code]](https://github.com/vliu15/speech-masters-thesis) |
